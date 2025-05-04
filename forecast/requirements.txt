@@ -1,5 +1,8 @@
+fastapi
+uvicorn
 pandas
 pymongo
-matplotlib
 statsmodels
 numpy
+pydantic
+python-dateutil
