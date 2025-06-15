@@ -6,3 +6,5 @@ statsmodels
 numpy
 pydantic
 python-dateutil
+scipy
+Cython
